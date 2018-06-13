@@ -26,8 +26,8 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'pry', '~> 0.10'
   spec.add_development_dependency 'rake'
   spec.add_development_dependency 'rspec', '~> 3.5'
-  spec.add_development_dependency 'rubocop', '~> 0.56.0'
+  spec.add_development_dependency 'rubocop', '~> 0.57.1'
 
-  spec.add_dependency 'capistrano', '~> 3.10.1'
+  spec.add_dependency 'capistrano', '~> 3.11.0'
   spec.add_dependency 'highline', '~> 1.7.1'
 end
